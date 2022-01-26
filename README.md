@@ -3,7 +3,9 @@
 Bonjour j'ai choisi d'utiliser **nodeJS** et **expressJS** pour construire un début d'API, j'ai inclus un **mongodb** que j'ai connecter mais pas utiliser ainsi qu'un service pour avoir accès à **mongo**.
 J'ai utiliser **multer** pour la partie d'upload d'image et **sharp** pour la partie d'optimisation.
 En essayant au maximum de me rapprocher d'une structure component https://github.com/goldbergyoni/nodebestpractices
+
 Avec comme couche
+
 Route->Middleware->Controller->Service
 
 Force:
