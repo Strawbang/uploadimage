@@ -5,6 +5,7 @@ J'ai utiliser **multer** pour la partie d'upload d'image et **sharp** pour la pa
 En essayant au maximum de me rapprocher d'une structure component https://github.com/goldbergyoni/nodebestpractices
 Avec comme couche
 Route->Middleware->Controller->Service
+
 Force:
 * Début d'application cohérente
 * Structure totalement adaptable
